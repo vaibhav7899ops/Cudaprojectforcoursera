@@ -1,5 +1,6 @@
 // SPH Fluid Simulation with CUDA
 // Based on Smoothed Particle Hydrodynamics method
+// steps for cuda project 
 
 #include <cuda_runtime.h>
 #include <device_launch_parameters.h>
